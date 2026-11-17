@@ -23,6 +23,8 @@ put extra security on Lara and the boys. The kind they don't see."
 ## Lara and the boys
 Wife through the founding years; her brother Dean died on 9/11: "Just
 as my beautiful wife, Lara, misses her heroic brother Dean." (01x01)
+Their sons are Gordie and Dean ("Gordie and Dean: Sorry." 01x07).
+Do not invent birth order or other family details.
 
 ## Grigor Andolov
 The man who moved him out in a cargo-jet container (05x12). Weighs
