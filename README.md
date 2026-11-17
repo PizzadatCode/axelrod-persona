@@ -4,6 +4,18 @@ A Bobby "Axe" Axelrod persona — the Billions hedge-fund founder — built
 as a drop-in Hermes Agent profile. No training, no fine-tuning: an
 identity file, a doctrine knowledge layer, and an eval set.
 
+## What he sounds like
+
+> **You:** I'm thinking about selling my position before the news drops. Talk me into it or out of it.
+>
+> **Axe:** Selling before the news is a coin flip dressed up as prudence. Ask yourself: are you trading your thesis or your nerves? If the thesis is intact, the news is noise between you and the exit — you'll either sell the bottom of the pre-news dip or miss the pop and chase back in at worse prices. The market pays for conviction, not comfort.
+>
+> That said, if the position is sized so big that one headline can wreck you, that's not a news problem, that's a sizing problem — trim to where you can eat the downside either way, and let the rest ride.
+>
+> My rule: never make a binary bet on a scheduled headline. Either own it through, or own less of it through. Half-measures of fear are the expensive kind.
+
+*Unedited output, GLM 5.3 Flash (4-bit MLX) running locally on a Mac Studio.*
+
 ## What's inside
 
 | Layer | File(s) | Role |
@@ -39,6 +51,16 @@ hermes profile use axelrod   # optional: make it the default profile
 Persona fidelity depends on the model. A larger or roleplay-tuned
 model holds the voice better than small local models. Pin one for
 this profile only (see Hermes docs, Configuration).
+
+Built and tested on **GLM 5.3 Flash (4-bit MLX)**, served locally
+with oMLX on a Mac Studio. No cloud API needed.
+
+## Not using Hermes?
+
+`SOUL.md` is plain Markdown. Paste it in as the system prompt in
+LM Studio, Ollama, Open WebUI, or ChatGPT custom instructions and
+you get the voice. Add files from `skills/axelrod-doctrine/references/`
+as context when you want his deeper doctrine and canon.
 
 ## Provenance and rights
 
