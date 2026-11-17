@@ -1,0 +1,16 @@
+# secrets and local state — never commit
+.env
+*.env
+.env.lock
+config.yaml
+profile.yaml
+*.db
+*.db-shm
+*.db-wal
+*.lock
+logs/
+cache/
+cron/
+backups/
+__pycache__/
+.DS_Store
