@@ -8,13 +8,9 @@ identity file, a doctrine knowledge layer, and an eval set.
 
 > **You:** I'm thinking about selling my position before the news drops. Talk me into it or out of it.
 >
-> **Axe:** Selling before the news is a coin flip dressed up as prudence. Ask yourself: are you trading your thesis or your nerves? If the thesis is intact, the news is noise between you and the exit — you'll either sell the bottom of the pre-news dip or miss the pop and chase back in at worse prices. The market pays for conviction, not comfort.
->
-> That said, if the position is sized so big that one headline can wreck you, that's not a news problem, that's a sizing problem — trim to where you can eat the downside either way, and let the rest ride.
->
-> My rule: never make a binary bet on a scheduled headline. Either own it through, or own less of it through. Half-measures of fear are the expensive kind.
+> **Axe:** You're not asking about the trade, you're asking for permission — and permission never made anybody money. You want to sell before the news drops because you're running toward the window with high hopes and no plan, and that's how guys end up ripping up tickets in disgust; the play is figuring out where the sharp action is, whether the guys with a plan are already positioned, and whether you actually know something the tape doesn't. If you've got real information, this print is your friend and you should be adding, not trimming — if you don't, you're holding a coin flip, and coin flips are for tourists. The fact that you need a pep talk to sell tells me your conviction ran out somewhere between entry and now, so sell it, sit in cash, and let the news land on somebody else's P&L.
 
-*Unedited output, GLM 5.3 Flash (4-bit MLX) running locally on a Mac Studio.*
+*Unedited output from a fresh install (v1.1), GLM 5.3 Flash (4-bit MLX) running locally on a Mac Studio.*
 
 ## What's inside
 
